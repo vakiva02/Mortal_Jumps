@@ -1,0 +1,30 @@
+C:\Users\Fabiola Balda\Documents\Vasili 2019\Visual Studio p\Win_MortalJumps\Win_MortalJumps\obj\Debug\Win_MortalJumps.csprojAssemblyReference.cache
+C:\Users\Fabiola Balda\Documents\Vasili 2019\Visual Studio p\Win_MortalJumps\Win_MortalJumps\obj\Debug\Win_MortalJumps.Properties.Resources.resources
+C:\Users\Fabiola Balda\Documents\Vasili 2019\Visual Studio p\Win_MortalJumps\Win_MortalJumps\obj\Debug\Win_MortalJumps.Win_MortalJumps.resources
+C:\Users\Fabiola Balda\Documents\Vasili 2019\Visual Studio p\Win_MortalJumps\Win_MortalJumps\obj\Debug\Win_MortalJumps.csproj.GenerateResource.cache
+C:\Users\Fabiola Balda\Documents\Vasili 2019\Visual Studio p\Win_MortalJumps\Win_MortalJumps\obj\Debug\Win_MortalJumps.csproj.CoreCompileInputs.cache
+C:\Users\Fabiola Balda\Documents\Vasili 2019\Visual Studio p\Win_MortalJumps\Win_MortalJumps\bin\Debug\Win_MortalJumps.exe.config
+C:\Users\Fabiola Balda\Documents\Vasili 2019\Visual Studio p\Win_MortalJumps\Win_MortalJumps\bin\Debug\Win_MortalJumps.exe
+C:\Users\Fabiola Balda\Documents\Vasili 2019\Visual Studio p\Win_MortalJumps\Win_MortalJumps\bin\Debug\Win_MortalJumps.pdb
+C:\Users\Fabiola Balda\Documents\Vasili 2019\Visual Studio p\Win_MortalJumps\Win_MortalJumps\obj\Debug\Win_MortalJumps.exe
+C:\Users\Fabiola Balda\Documents\Vasili 2019\Visual Studio p\Win_MortalJumps\Win_MortalJumps\obj\Debug\Win_MortalJumps.pdb
+C:\Users\Y540\Downloads\Win_MortalJumps\Win_MortalJumps\bin\Debug\Win_MortalJumps.exe.config
+C:\Users\Y540\Downloads\Win_MortalJumps\Win_MortalJumps\bin\Debug\Win_MortalJumps.exe
+C:\Users\Y540\Downloads\Win_MortalJumps\Win_MortalJumps\bin\Debug\Win_MortalJumps.pdb
+C:\Users\Y540\Downloads\Win_MortalJumps\Win_MortalJumps\obj\Debug\Win_MortalJumps.csprojAssemblyReference.cache
+C:\Users\Y540\Downloads\Win_MortalJumps\Win_MortalJumps\obj\Debug\Win_MortalJumps.Properties.Resources.resources
+C:\Users\Y540\Downloads\Win_MortalJumps\Win_MortalJumps\obj\Debug\Win_MortalJumps.Win_MortalJumps.resources
+C:\Users\Y540\Downloads\Win_MortalJumps\Win_MortalJumps\obj\Debug\Win_MortalJumps.csproj.GenerateResource.cache
+C:\Users\Y540\Downloads\Win_MortalJumps\Win_MortalJumps\obj\Debug\Win_MortalJumps.csproj.CoreCompileInputs.cache
+C:\Users\Y540\Downloads\Win_MortalJumps\Win_MortalJumps\obj\Debug\Win_MortalJumps.exe
+C:\Users\Y540\Downloads\Win_MortalJumps\Win_MortalJumps\obj\Debug\Win_MortalJumps.pdb
+C:\Users\LENOVO\Desktop\Win_MortalJumpsFinal\Win_MortalJumps\bin\Debug\Win_MortalJumps.exe.config
+C:\Users\LENOVO\Desktop\Win_MortalJumpsFinal\Win_MortalJumps\bin\Debug\Win_MortalJumps.exe
+C:\Users\LENOVO\Desktop\Win_MortalJumpsFinal\Win_MortalJumps\bin\Debug\Win_MortalJumps.pdb
+C:\Users\LENOVO\Desktop\Win_MortalJumpsFinal\Win_MortalJumps\obj\Debug\Win_MortalJumps.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Win_MortalJumpsFinal\Win_MortalJumps\obj\Debug\Win_MortalJumps.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Win_MortalJumpsFinal\Win_MortalJumps\obj\Debug\Win_MortalJumps.Win_MortalJumps.resources
+C:\Users\LENOVO\Desktop\Win_MortalJumpsFinal\Win_MortalJumps\obj\Debug\Win_MortalJumps.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Win_MortalJumpsFinal\Win_MortalJumps\obj\Debug\Win_MortalJumps.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Win_MortalJumpsFinal\Win_MortalJumps\obj\Debug\Win_MortalJumps.exe
+C:\Users\LENOVO\Desktop\Win_MortalJumpsFinal\Win_MortalJumps\obj\Debug\Win_MortalJumps.pdb
